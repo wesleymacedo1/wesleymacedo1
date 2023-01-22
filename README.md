@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a52a2a&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a52a2a&size=35&center=true&vCenter=true&width=1000&lines=Ola,+Pessoal!;Me+chamo+Wesley+Macedo;Tenho+30+anos;Resido+em+Ribeirão+Preto,+Brasil;Cursando;Analise+e+Desenvolvimento+de+Sistemas;Pela+Anhanguera!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ffff&size=35&center=true&vCenter=true&width=1000&lines=Ola,+Pessoal!;Me+chamo+Wesley+Macedo;Tenho+30+anos;Resido+em+Ribeirão+Preto,+Brasil;Cursando;Analise+e+Desenvolvimento+de+Sistemas;Pela+Anhanguera!+:%29)](https://git.io/typing-svg)
 
  
 <div style="display: inline_block"><br>
@@ -32,4 +32,4 @@
 <br>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a52a2a&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=120&section=footer"/>
